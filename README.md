@@ -1,6 +1,7 @@
 <div align="center">
-    <img width="1596" height="461" alt="banner(7)" src="https://github.com/user-attachments/assets/6c480a2e-5fa2-48b4-b701-b023ee68918a" />
+    <img width="1596" height="461" alt="banner(10)" src="https://github.com/user-attachments/assets/13ee20be-441b-4e95-a43d-5dd1ae2889f8" />
 </div>
+
 
 
 ## Solaris Temp
